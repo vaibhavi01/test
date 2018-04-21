@@ -1,0 +1,119 @@
+
+.header .nav li.item-select{ background:#2D406B;}
+.header .nav li:hover{   background: #2D406B;}
+.wtf-menu ul.submenu li:hover {  background: #2D406B;}
+.tp-caption.grey_heavy_72-light {color:#2D406B;}
+.tp-caption.icon i { background: #2D406B;}
+.services-one .service-sec .icon{ background:#2D406B;}
+.z-tabs.silver > ul > li.z-active > a {	  border-bottom: solid 5px #2D406B;	  color: #2D406B;}
+.z-tabs.horizontal .detail a:hover {    background-color: #2D406B;}
+.meet-specialists .detail h6 {    color: #2D406B;}
+.meet-specialists .detail a:hover {    color: #2D406B;}
+.latest-news .post .detail a:hover {    color: #2D406B;}
+.patients-testi .testi-sec span.name{ color:#2D406B;}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{	background:#2D406B;}
+.main-footer .tweets .text a:hover {    color: #2D406B;}
+.main-footer .newsletter .form input[type=submit]:hover{ background: #2D406B;}
+.cd-top{ background-color: #2D406B; }
+.header2 .nav li.item-select { background: #2D406B url(../images/navi-plus.png) no-repeat 50% 32%;}
+.header2 .nav li.item-select:hover { background: #2D406B url(../images/navi-plus.png) no-repeat 50% 32%; }
+.header2 .nav li:hover{  background: #464C5B url(../images/navi-plus.png) no-repeat 50% 32%; border-radius: 0; padding:46px 0 32px 0;}
+.tp-bullets.preview4 .bullet.selected { background: #2D406B !important;}
+.services-two .service-sec .icon{ background:#2D406B;}
+.services-three .serv-sec{background: #2D406B;}
+.services-three .serv-sec.serv-sec2{ background: #2D406B;}
+.services-three .serv-sec.serv-sec3{background: #2D406B;}
+.welcome-two .welcome-detail ul li{ color: #2D406B;}
+.footer-light .emergency i{ color:#02ADC9; }
+.footer-light .main-footer .title h5{   color: #2D406B; border-bottom: solid 1px #2D406B; }
+.footer-light .main-footer .tweets .text a{ color:#2D406B;}
+.footer-light .main-footer .tweets .icon{ color:#2D406B;}
+.footer-light .main-footer .get-touch ul li a:hover span{color:#2D406B; }
+
+
+/** banner three **/
+.main-banner-three{ background: rgba(2, 173, 198, 0.69);  }
+/** Fancybox overlay **/
+.fancybox-overlay {	background: rgba(2, 173, 198, 0.84);}
+/** Team Social icons **/
+.cbp-caption-activeWrap {	background-color: rgba(2, 173, 198, 0.81);}
+
+.appointment-form .form input[type=submit]:hover{ background: #2D406B;}
+.services-five .service-sec .icon{ background:#2D406B;box-shadow: 0 0 0 3px #2D406B;}
+.sub-banner .detail ul li:last-child a{ color:#2D406B;}
+.sub-banner .detail ul li a:hover{ color:#2D406B;}
+.why-choose li.open .link { color: #2D406B;}
+.why-choose li.open i { color: #2D406B !important; }
+#services-slide .owl-controls .owl-page.active span{ background:#2D406B ;}
+.welcome-three .welcome-detail ul li i{  color: #2D406B; }
+.member-detail .team-detail .name h6{ color:#2D406B;}
+.year { color:#2D406B;}
+.main-appointment-form .appointment-form{   background: #2D406B;}
+.main-appointment-form .appoint-icon {  background-color: #2D406B; }
+.contact-us .leave-msg .form input[type=submit]:hover { background: #2D406B;}
+.contact-us .give-msg input[type=submit]:hover{  background: #2D406B;}
+.departments .depart-sec a:hover{ background: #2D406B;}
+.investigation .investigation-sec .title{ background:#2D406B;}
+.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active {	color: #2D406B;	border-bottom: solid 5px #2D406B;}
+.cbp-l-filters-list .cbp-filter-item:hover {  border-bottom: solid 5px #2D406B;}
+.main-gallery .layer i{ background:#02B4D6;}
+.main-gallery .gallery-sec .detail h6{ color:#2D406B;}
+.main-gallery .gallery-sec .detail{ border-bottom: solid 4px #2D406B; }
+.main-gallery a.gallery-sec:hover .detail{ background:#2D406B;}
+.main-gallery .paging a:hover{   background: #2D406B;  border: solid 1px #2D406B;}
+.main-gallery .paging a.selected{   background: #2D406B;  border: solid 1px #2D406B;}
+.news-posts .comment-box .detail a:hover {    background: #2D406B;}
+.news-posts .leave-reply .form input[type=submit]:hover{  background: #2D406B;}
+.news-posts .categories ul li a:hover{  color: #2D406B;}
+.news-posts .recent-posts .post-sec a.title:hover{color:#2D406B;}
+.news-posts .news-sec .detail a.read-more:hover{background-color: #2D406B;}
+.news-masonary .news-sec a:hover{color: #2D406B; }
+.text-posts .post-sec a.title:hover{ color:#2D406B;}
+.text-posts .post-sec p a{ color:#2D406B;}
+.text-posts .post-sec ul li a:hover i{ color:#2D406B;}
+.text-posts .post-sec ul li a:hover span{ color:#2D406B;}
+.text-posts .next-pre a:hover{ color:#2D406B;}
+.patient-family .how-treat a:hover{ background: #2D406B;}
+.procedures-links span.title {  background: #2D406B; }
+.procedures .procedure-text ul li{color: #2D406B;}
+.procedures .about-cancer-center span.name{  color: #2D406B;}
+#procedures-faq.accordion li.open .link {  background-color: #2D406B; }
+.research .research-detail li i{  color:#2D406B; }
+.services-content .serv-sec .detail h5{ color:#2D406B; }
+.product-thumb label{ background:#2D406B;}
+.product-description h3 a{color:#2D406B;}
+.product-description .product-cart-btn:hover, .product-description .product-detail-btn:hover{color:#2D406B;}
+.ui-widget-header {  background: #2D406B;}
+.top-products .top-products-detail a{color: #2D406B;}
+.ratings.big i{color: #2D406B;}
+.product-detail-slider .rslides_tabs li.rslides_here a{background:#2D406B}
+a#add-review-btn:hover{background-color: #2D406B;}
+.resp-vtabs li.resp-tab-active {color:#2D406B;}
+.product-detail-description .btn-medium:hover{ background:#2D406B;}
+.pricing-table-footer a{background-color: #2D406B; }
+.all-team-members .detail h6{ color:#2D406B; }
+.all-team-members .detail a:hover{color: #2D406B;}
+.cbp-l-caption-text a:hover{  color:#2D406B;}
+.main-footer .useful-links ul li a:hover{ color:#2D406B;}
+.main-footer .get-touch ul li a:hover span{color:#2D406B;}
+#accordion2 .time-table{ background: #2D406B url(../images/time-icon-bg.png) no-repeat;}
+.top-bar .get-touch li:last-child a:hover{   color: #2b96cc;}
+.meet-specialists .gallery-sec .layer { background-color:rgba(2, 173, 198, 0.84);}
+.member-detail .gallery-sec .layer { background-color: rgba(2, 173, 198, 0.81);}
+.meet-specialists .gallery-sec a:hover { color: #2D406B;}
+.footer-light .main-footer .newsletter .form input[type=submit]:hover{ background: #2D406B;}
+.why-choose li i {color: #2D406B;}
+#page .header a{	background-color:#2D406B !important;}
+.mm-menu {  background: #2D406B !important;}
+ul.z-tabs-nav.z-tabs-mobile.z-state-closed { background-color: #2D406B !Important;}
+ul.z-tabs-mobile li:first-child { background-color: #2D406B !important;}
+.header2.sticky .nav li.item-select { background: #2D406B;}
+
+
+
+.shop-cart .cart-pro-detail .cancel i{color: #2D406B;}
+.cash-decide .cart-total .total-sec a{background: #2D406B;}
+
+
+.shop-cart .cart-update-sec a:hover{ background: #2D406B; }
